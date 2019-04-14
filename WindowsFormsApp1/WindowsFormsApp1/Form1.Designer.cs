@@ -85,8 +85,9 @@
             this.listaAlumnos.Multiline = true;
             this.listaAlumnos.Name = "listaAlumnos";
             this.listaAlumnos.ReadOnly = true;
-            this.listaAlumnos.Size = new System.Drawing.Size(500, 221);
+            this.listaAlumnos.Size = new System.Drawing.Size(361, 221);
             this.listaAlumnos.TabIndex = 5;
+            this.listaAlumnos.TextChanged += new System.EventHandler(this.listaAlumnos_TextChanged);
             // 
             // button1
             // 
