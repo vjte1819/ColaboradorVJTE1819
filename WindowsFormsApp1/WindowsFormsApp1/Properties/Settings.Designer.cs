@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WindowsFormsPraticaGitHubVJTE1819.Properties
+namespace WindowsFormsApp1.Properties
 {
 
 
