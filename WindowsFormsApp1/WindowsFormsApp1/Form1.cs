@@ -55,6 +55,11 @@ namespace WindowsFormsApp1
         {
 
         }
+
+        private void aluNota_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 
     class Alumno

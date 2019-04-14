@@ -60,6 +60,7 @@
             this.aluNota.Name = "aluNota";
             this.aluNota.Size = new System.Drawing.Size(100, 20);
             this.aluNota.TabIndex = 2;
+            this.aluNota.TextChanged += new System.EventHandler(this.aluNota_TextChanged);
             // 
             // label2
             // 
